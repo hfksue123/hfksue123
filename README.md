@@ -33,15 +33,29 @@
 <br />
 <br />
 <p>
-<img align="left" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3N0emQzc2NxY2Vvb2wwZWJibWMwNWxreWdvZ2tmb3prOWtoMzdwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6xE1FNcorRInS/giphy.gif" width="350"/>
-
-&nbsp;&nbsp;&nbsp;&nbsp;- 🤔 I’m looking for a stable job to build a better future.  
-
-&nbsp;&nbsp;&nbsp;&nbsp;- 💬 Ask me just about anything. I am happy to help.
-&nbsp;&nbsp;&nbsp;&nbsp;- 💔 Tell me what is love. Still single until now.
-&nbsp;&nbsp;&nbsp;&nbsp;- 🩹 I am an introverted person and rarely communicate.
-&nbsp;&nbsp;&nbsp;&nbsp;- 🤺 The following are my skills and collection.
+  <img align="left" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3N0emQzc2NxY2Vvb2wwZWJibWMwNWxreWdvZ2tmb3prOWtoMzdwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6xE1FNcorRInS/giphy.gif" width="350" />
+  <div style="display: inline-block; vertical-align: top; margin-left: 10px;">
+    <table style="border-spacing: 0; border-collapse: collapse;">
+      <tr>
+        <td style="padding: 0px 15px;">- 🤔 I’m looking for a stable job to build a better future.</td>
+      </tr>
+      <tr>
+        <td style="padding: 0px 15px;">- 💬 Ask me just about anything. I am happy to help.</td>
+      </tr>
+      <tr>
+        <td style="padding: 0px 15px;">- 💔 Tell me what is love. Still single until now.</td>
+      </tr>
+      <tr>
+        <td style="padding: 0px 15px;">- 🩹 I am an introverted person and rarely communicate.</td>
+      </tr>
+      <tr>
+        <td style="padding: 0px 15px;">- 🤺 The following are my skills and collection.</td>
+      </tr>
+    </table>
+  </div>
 </p>
+
+
 <br />
 
 <h3 align="center">💻 Language and Tools ⚙️</h3>
