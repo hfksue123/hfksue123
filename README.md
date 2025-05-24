@@ -143,17 +143,17 @@
 <!-- projects -->
 <h2 align="center">🚀 My Projects 🚀</h2>
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="50%">
-      <strong>📸 Personal Image Gallery</strong><br/>
-      <img src="./img/project1.jpg" width="100%" height="200px" alt="Linear Programming Solver" />
+      <strong>📸 My Image Gallery</strong><br/>
+      <img src="./img/project1.jpg" width="100%" alt="Personal Image Gallery" />
       <br/>
       <a href="https://hfksue123.github.io/album-cua-bao/#/">🔗 Go to web</a>
     </td>
     <td align="center" width="50%">
       <strong>☕ Coffee-Shop Frontend</strong><br/>
-      <img src="./img/project2.jpg" width="100%" height="200px" alt="E-commerce Frontend" />
+      <img src="./img/project2.jpg" width="100%" alt="Coffee-Shop Frontend" />
       <br/>
       <a href="https://hfksue123.github.io/Frontend-website-using-tailwindCSS-and-AOS/">🔗 Go to web</a>
     </td>
@@ -161,13 +161,13 @@
   <tr>
     <td align="center" width="50%">
       <strong>🛍️ Fullstack App Using Sanity</strong><br/>
-      <img src="./img/project3.jpg" width="100%" height="200px" alt="Dashboard App" />
+      <img src="./img/project3.jpg" width="100%" alt="Fullstack App Using Sanity" />
       <br/>
       <a href="">🔗</a>
     </td>
     <td align="center" width="50%">
-      <strong>👕 Fullstack Clothes App</strong><br/>
-      <img src="./img/project4.jpg" width="100%" height="200px" alt="AI Chatbot" />
+      <strong>👕 Fullstack Fashion App</strong><br/>
+      <img src="./img/project4.jpg" width="100%" alt="Fullstack Fashion App" />
       <br/>
       <a href="https://fullstack-fashion-app.vercel.app/">🔗 Go to web</a>
     </td>
