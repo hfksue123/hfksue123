@@ -165,7 +165,7 @@
       <strong>🛍️ Fullstack App Using Sanity</strong><br/>
       <img src="./img/project3.jpg" width="100%" alt="Fullstack App Using Sanity" />
       <br/>
-      <a href="https://github.com/hfksue123/fullstack-sanity-app">📦 Code</a>
+      <a href="https://github.com/hfksue123/Fullstack-Ecommerce-website">📦 Code</a>
     </td>
     <td align="center" width="50%">
       <strong>👕 Fullstack Fashion App</strong><br/>
