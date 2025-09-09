@@ -74,11 +74,14 @@
   <!--row4-->
   <tr>
     <td style="vertical-align: top;" >
-      <p>⯈ 🏖️ <em>The best journeys lead you not only to new places but also to a better version of yourself.</em></p>  
-      <p>⯈ 😺 <em>Happiness is not a destination, but the love and warmth we build along the way.</em></p>  
-      <p>⯈ 🥩 <em>Success is not just about speed, but about consistency and purpose.</em></p>  
-      <p>⯈ 🍭 <em>Every challenge is an opportunity in disguise—embrace it, grow, and soar.</em></p>
-    </td>
+  <p>⯈ 🏖️ <em>The best journeys lead you not only to new places but also to a better version of yourself.</em></p>  
+  <p>⯈ 😺 <em>Happiness is not a destination, but the love and warmth we build along the way.</em></p>  
+  <p>⯈ 🥩 <em>Success is not just about speed, but about consistency and purpose.</em></p>  
+  <p>⯈ 🍭 <em>Every challenge is an opportunity in disguise. Embrace it, grow, and soar.</em></p>  
+  <p>⯈ 🇻🇳 <em>I love Vietnam, a land of beauty and resilience.</em></p>  
+  <p>⯈ 🍚 <em>Cơm tấm is not just food, it’s a taste of home and comfort.</em></p>  
+  <p>⯈ 🌸 <em>Love grows stronger when shared with kindness and sincerity.</em></p>  
+</td>
     <td align="center">
     <img 
         alt="GIF" 
