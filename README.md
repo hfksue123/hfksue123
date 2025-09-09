@@ -82,7 +82,7 @@
     <td align="center">
     <img 
         alt="GIF" 
-        src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejk3emh5dnFld29nbWE5dGxidGkyZmx5NHZwMTJqYW95cXR2NHJ3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oKLNQQ6OIeSU8/giphy.gif" 
+        src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVzbWlkamE0N3lpNmR0bnF3amgwOTlpbzVlMnk4eHEyY2RiNHlocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ctT6DnoaQFtLihBbwU/giphy.gif" 
         width="380" />
     </td>
   </tr>
