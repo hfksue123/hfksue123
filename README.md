@@ -33,7 +33,7 @@
     </td>
     <td>
       <p>⯈ 🎓 <em>I’m currently studying at HCMUS, striving to achieve my academic goals.</em></p>
-<p>⯈ 🧮 <em>My major is Mathematical Informatics (2020 - now), where I explore data and algorithms.</em></p>
+<p>⯈ 🧮 <em>My major is Mathematical Informatics, where I explore data and algorithms.</em></p>
 <p>⯈ 🐳 <em>Although slower than others because of an accident, I always keep trying and moving forward.</em></p>
 <p>⯈ ✨ <em>I dream of contributing to global projects that make a difference in people's lives.</em></p>
     </td>
